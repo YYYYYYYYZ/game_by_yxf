@@ -1,0 +1,4 @@
+C:\Users\gzyyj\Desktop\C\game_by_yxf\Debug\game_by_yxf.exe
+C:\Users\gzyyj\Desktop\C\game_by_yxf\Debug\game_by_yxf.pdb
+C:\Users\gzyyj\Desktop\game_by_yxf\Debug\game_by_yxf.exe
+C:\Users\gzyyj\Desktop\game_by_yxf\Debug\game_by_yxf.pdb
